@@ -9,5 +9,6 @@ Start with [`speedrun/README.md`](speedrun/README.md).
 
 ## Lab deliverables
 
+- [Project board (storyboard)](https://github.com/users/AjithAM316/projects/1) — live GitHub Projects kanban of the user stories.
 - [`docs/storyboard.md`](docs/storyboard.md) — progress storyboard for the 38 lab tasks (user stories + done/in-progress/to-do tracking).
 - [`docs/test-cases.md`](docs/test-cases.md) — full test case suite for the 38 tasks (steps, expected results, automated vs. manual verification, pass/fail).

@@ -4,6 +4,8 @@
 **Repository:** [Git Workshop Toolkit](../README.md)
 **Problem set:** the 38-task Git Speedrun kit in [`speedrun/tasks.md`](../speedrun/tasks.md)
 
+**Live board:** [Git Version Control Lab – Storyboard](https://github.com/users/AjithAM316/projects/1) (GitHub Projects: Backlog / To Do / In Progress / Testing / Done). Each user story below is an issue on that board (US1–US13, plus test-case issues).
+
 This storyboard tracks progress through every problem attempted across the lab
 sessions. Each problem is written as a short user story ("As a learner, I
 want to ... so that ...") and moved across the board as it's completed. Every
